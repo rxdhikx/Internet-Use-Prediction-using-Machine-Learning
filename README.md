@@ -11,3 +11,6 @@ This challenges us to develop a predictive model capable of analyzing children's
 This work will contribute to a healthier, happier future where children are better equipped to navigate the digital landscape responsibly.
 
 Source: Kaggle Competition (Child Mind Institute — Problematic Internet Use) 
+
+
+![www github comrxdhikx](https://github.com/user-attachments/assets/f37f35af-aa51-49be-9830-4e8f458bf5ae)
